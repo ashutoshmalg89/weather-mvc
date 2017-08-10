@@ -1,0 +1,11 @@
+F:\my_workspace\weather-mvc-rest\src\main\java\io\api\Controller\WeatherController.java
+F:\my_workspace\weather-mvc-rest\src\main\java\io\api\Exception\BadRequestException.java
+F:\my_workspace\weather-mvc-rest\src\main\java\io\api\JPAConfig.java
+F:\my_workspace\weather-mvc-rest\src\main\java\io\api\Service\WeatherService.java
+F:\my_workspace\weather-mvc-rest\src\main\java\io\api\RepositoryImpl\WeatherRepositoryImpl.java
+F:\my_workspace\weather-mvc-rest\src\main\java\io\api\WebConfig.java
+F:\my_workspace\weather-mvc-rest\src\main\java\io\api\ServiceImpl\WeatherServiceImpl.java
+F:\my_workspace\weather-mvc-rest\src\main\java\io\api\Repository\WeatherRepository.java
+F:\my_workspace\weather-mvc-rest\src\main\java\io\api\Entity\Weather.java
+F:\my_workspace\weather-mvc-rest\src\main\java\io\api\ServletInitializer.java
+F:\my_workspace\weather-mvc-rest\src\main\java\io\api\SwaggerConfig.java
